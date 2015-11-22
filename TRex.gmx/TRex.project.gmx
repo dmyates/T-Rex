@@ -5,9 +5,24 @@
   </Configs>
   <NewExtensions/>
   <sounds name="sound"/>
-  <sprites name="sprites"/>
+  <sprites name="sprites">
+    <sprite>sprites\spr_trex</sprite>
+    <sprites name="Prehistoric">
+      <sprite>sprites\spr_prehis_grass</sprite>
+    </sprites>
+    <sprite>sprites\spr_raptor</sprite>
+  </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
+  <objects name="objects">
+    <object>objects\obj_trex</object>
+    <object>objects\obj_raptor</object>
+    <object>objects\obj_prehis_grass</object>
+    <object>objects\obj_control</object>
+  </objects>
+  <rooms name="rooms">
+    <room>rooms\rom_test</room>
+  </rooms>
   <help>
     <rtf>help.rtf</rtf>
   </help>
