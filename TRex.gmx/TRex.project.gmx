@@ -9,6 +9,9 @@
     <sprite>sprites\spr_trex</sprite>
     <sprites name="Prehistoric">
       <sprite>sprites\spr_prehis_grass</sprite>
+      <sprite>sprites\spr_trex_door</sprite>
+      <sprite>sprites\spr_trex_door_breakable</sprite>
+      <sprite>sprites\spr_trex_door_switch</sprite>
     </sprites>
     <sprite>sprites\spr_raptor</sprite>
   </sprites>
@@ -17,8 +20,13 @@
   <objects name="objects">
     <object>objects\obj_trex</object>
     <object>objects\obj_raptor</object>
-    <object>objects\obj_prehis_grass</object>
     <object>objects\obj_control</object>
+    <objects name="Prehistoric">
+      <object>objects\obj_prehis_grass</object>
+      <object>objects\obj_trex_door</object>
+      <object>objects\obj_trex_door_switch</object>
+      <object>objects\obj_trex_door_breakable</object>
+    </objects>
   </objects>
   <rooms name="rooms">
     <room>rooms\rom_test</room>
