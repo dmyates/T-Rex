@@ -30,7 +30,7 @@
 open = false;
 grav = 0.5;
 hsp = 0;
-vsp = 0;
+vsp = 4;
 movespeed = 2;
 jumpspeed = 4;
 }
@@ -60,18 +60,27 @@ jumpspeed = 4;
 {
 if open = true
     {
-    vsp = -2;
+    if !(place_meeting(x,y-1,obj_barrier_parent))
+         {
+         y -= 1;
+         }
+    else 
+        {
+        exit
+        }
     }
 else if open = false
-    {
-    if (vsp &lt; 10) vsp += grav;
-    if (place_meeting(x,y+1,obj_barrier_parent))
+    { 
+    if (!place_meeting(x,y+1,obj_barrier_parent)) and (!place_meeting(x,y+1,obj_trex)) and (!place_meeting(x,y+1,obj_raptor))
         {
-        vsp = jumpspeed;
+        y += 1;
+        }
+    else
+        {
+        exit
         }
     }
 }
-
 </string>
           </argument>
         </arguments>

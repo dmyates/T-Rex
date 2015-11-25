@@ -1318,7 +1318,7 @@
     <instance objName="obj_prehis_grass" x="1152" y="3712" name="inst_C3F31835" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="1152" y="3744" name="inst_64BC1935" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_trex_door" x="1056" y="3776" name="inst_6B47EFAB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_trex_door_switch" x="800" y="4000" name="inst_A05DD69E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_trex_door_switch" x="798" y="4024" name="inst_A05DD69E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="" x="1408" y="736" w="16" h="16" xo="0" yo="0" id="10000001" name="inst_DDC19A50" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
