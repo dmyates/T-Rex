@@ -27,6 +27,7 @@
       <object>objects\obj_trex_door_switch</object>
       <object>objects\obj_trex_door_breakable</object>
     </objects>
+    <object>objects\obj_barrier_parent</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rom_test</room>
