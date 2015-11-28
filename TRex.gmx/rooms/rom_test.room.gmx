@@ -1575,8 +1575,6 @@
     <instance objName="obj_prehis_grass" x="3168" y="3744" name="inst_F0FA619D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="3200" y="3744" name="inst_B1A5043F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="3232" y="3744" name="inst_7ECC5FAE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="&lt;undefined&gt;" x="2240" y="3680" name="inst_3E95AA3C" locked="0" code="" scaleX="22" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="&lt;undefined&gt;" x="2240" y="3680" name="inst_23EA7822" locked="0" code="" scaleX="22" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_bridge" x="1632" y="4032" name="inst_CB26AA33" locked="0" code="" scaleX="-21" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="1472" y="4096" name="inst_321F5632" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="1440" y="4096" name="inst_9DDE29C1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
