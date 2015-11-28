@@ -26,20 +26,18 @@
           <argument>
             <kind>1</kind>
             <string>///Activate Door
-{
+
 if place_meeting(x,y,obj_raptor)
-    {
+{
     with instance_nearest(x,y,obj_trex_door)
-        { 
         open = true;
-        }
-    }
-else
-    with instance_nearest(x,y,obj_trex_door)
-        {
-        open = false;
-        }
 }
+else
+{
+    with instance_nearest(x,y,obj_trex_door)
+        open = false;
+}
+
 </string>
           </argument>
         </arguments>

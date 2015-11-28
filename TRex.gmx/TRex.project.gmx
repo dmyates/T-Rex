@@ -17,19 +17,25 @@
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
+  <scripts name="scripts">
+    <script>scripts\split_view.gml</script>
+    <script>scripts\startup.gml</script>
+  </scripts>
   <objects name="objects">
-    <object>objects\obj_trex</object>
-    <object>objects\obj_raptor</object>
-    <object>objects\obj_control</object>
     <objects name="Prehistoric">
       <object>objects\obj_prehis_grass</object>
       <object>objects\obj_trex_door</object>
       <object>objects\obj_trex_door_switch</object>
       <object>objects\obj_trex_door_breakable</object>
     </objects>
+    <object>objects\obj_trex</object>
+    <object>objects\obj_raptor</object>
+    <object>objects\obj_control</object>
     <object>objects\obj_barrier_parent</object>
+    <object>objects\obj_player_parent</object>
   </objects>
   <rooms name="rooms">
+    <room>rooms\rom_startup</room>
     <room>rooms\rom_test</room>
   </rooms>
   <help>
