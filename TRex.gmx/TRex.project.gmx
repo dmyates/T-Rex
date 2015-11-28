@@ -23,6 +23,10 @@
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
+  <scripts name="scripts">
+    <script>scripts\split_view.gml</script>
+    <script>scripts\startup.gml</script>
+  </scripts>
   <objects name="objects">
     <objects name="Prehistoric">
       <object>objects\obj_prehis_grass</object>
@@ -39,9 +43,10 @@
       <object>objects\obj_trap_dart_launcher</object>
       <object>objects\obj_trap_dart_trigger</object>
       <object>objects\obj_lava</object>
-    </objects>
+      <object>objects\obj_player_parent</object>
   </objects>
   <rooms name="rooms">
+    <room>rooms\rom_startup</room>
     <room>rooms\rom_test</room>
   </rooms>
   <help>
