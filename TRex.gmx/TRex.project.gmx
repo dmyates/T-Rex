@@ -19,6 +19,8 @@
       <sprite>sprites\spr_trap_dart_launcher</sprite>
       <sprite>sprites\spr_trap_dart_projectile</sprite>
       <sprite>sprites\spr_lava</sprite>
+      <sprite>sprites\spr_lava_spawn</sprite>
+      <sprite>sprites\spr_bridge</sprite>
     </sprites>
   </sprites>
   <backgrounds name="background"/>
@@ -29,6 +31,7 @@
     <script>scripts\setup_views.gml</script>
   </scripts>
   <objects name="objects">
+    <object>objects\obj_player_parent</object>
     <objects name="Prehistoric">
       <object>objects\obj_prehis_grass</object>
       <object>objects\obj_trex_door</object>
@@ -43,8 +46,10 @@
       <object>objects\obj_trap_dart_projectile</object>
       <object>objects\obj_trap_dart_launcher</object>
       <object>objects\obj_trap_dart_trigger</object>
-      <object>objects\obj_lava</object>
-      <object>objects\obj_player_parent</object>
+      <object>objects\obj_lava_stationary</object>
+      <object>objects\obj_lava_fluid</object>
+      <object>objects\obj_trap_lava_spawn</object>
+      <object>objects\obj_bridge</object>
     </objects>
   </objects>
   <rooms name="rooms">
