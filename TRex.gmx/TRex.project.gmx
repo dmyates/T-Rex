@@ -14,20 +14,32 @@
       <sprite>sprites\spr_trex_door_switch</sprite>
     </sprites>
     <sprite>sprites\spr_raptor</sprite>
+    <sprites name="Traps">
+      <sprite>sprites\spr_trap_dart_trigger</sprite>
+      <sprite>sprites\spr_trap_dart_launcher</sprite>
+      <sprite>sprites\spr_trap_dart_projectile</sprite>
+      <sprite>sprites\spr_lava</sprite>
+    </sprites>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
-    <object>objects\obj_trex</object>
-    <object>objects\obj_raptor</object>
-    <object>objects\obj_control</object>
     <objects name="Prehistoric">
       <object>objects\obj_prehis_grass</object>
       <object>objects\obj_trex_door</object>
       <object>objects\obj_trex_door_switch</object>
       <object>objects\obj_trex_door_breakable</object>
     </objects>
+    <object>objects\obj_trex</object>
+    <object>objects\obj_raptor</object>
+    <object>objects\obj_control</object>
     <object>objects\obj_barrier_parent</object>
+    <objects name="Traps">
+      <object>objects\obj_trap_dart_projectile</object>
+      <object>objects\obj_trap_dart_launcher</object>
+      <object>objects\obj_trap_dart_trigger</object>
+      <object>objects\obj_lava</object>
+    </objects>
   </objects>
   <rooms name="rooms">
     <room>rooms\rom_test</room>

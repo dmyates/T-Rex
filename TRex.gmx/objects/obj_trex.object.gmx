@@ -142,7 +142,7 @@ y += vsp;
 {
 if key_charge = 1 and (place_meeting(x+hsp,y,obj_barrier_parent))
     {
-    with obj_trex_door_breakable
+    with instance_nearest(x,y,obj_trex_door_breakable)
         {
         instance_destroy();
         }
