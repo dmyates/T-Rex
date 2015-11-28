@@ -113,6 +113,7 @@ key_special = keyboard_check(vk_lshift) || (gamepad_button_check(0,gp_shoulderrb
 
 if key_special = 1 and (place_meeting(x+hsp,y,obj_barrier_parent))
 {
+    with instance_nearest(x,y,obj_trex_door_breakable)
         instance_destroy();
 }
 else

@@ -44,6 +44,7 @@
       <object>objects\obj_trap_dart_trigger</object>
       <object>objects\obj_lava</object>
       <object>objects\obj_player_parent</object>
+    </objects>
   </objects>
   <rooms name="rooms">
     <room>rooms\rom_startup</room>
