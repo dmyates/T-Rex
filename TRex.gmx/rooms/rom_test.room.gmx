@@ -67,7 +67,6 @@
     <instance objName="obj_prehis_grass" x="352" y="4064" name="inst_C528BB0D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="384" y="4064" name="inst_49B91681" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="416" y="4064" name="inst_94BE9887" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="448" y="4032" name="inst_62288807" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="416" y="4032" name="inst_4A026CD7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="384" y="4032" name="inst_A0B4552D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="352" y="4032" name="inst_7DA0C029" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -382,16 +381,6 @@
     <instance objName="obj_prehis_grass" x="416" y="3648" name="inst_893F2A38" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="448" y="3648" name="inst_49D039EF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="480" y="3648" name="inst_DECD824C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="512" y="3648" name="inst_D7BC45EF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="544" y="3648" name="inst_1413CE8F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="576" y="3648" name="inst_1FDDC213" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="608" y="3648" name="inst_FA12BC66" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="640" y="3648" name="inst_01A2D820" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="640" y="3680" name="inst_9B8D96DD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="608" y="3680" name="inst_92D121E4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="576" y="3680" name="inst_1A4C304E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="544" y="3680" name="inst_C63CC148" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="512" y="3680" name="inst_846693B0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="480" y="3680" name="inst_8EBBD5F1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="448" y="3680" name="inst_1936B2E9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="416" y="3680" name="inst_AD03ED17" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -702,17 +691,10 @@
     <instance objName="obj_prehis_grass" x="128" y="3136" name="inst_09F70645" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="128" y="3104" name="inst_F78C0C1D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="160" y="3104" name="inst_52BD6756" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="608" y="3456" name="inst_24AA1F69" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="576" y="3424" name="inst_88E1779D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="544" y="3424" name="inst_1D0E2B53" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="544" y="3456" name="inst_4C080116" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="512" y="3456" name="inst_CBEAA41C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="480" y="3456" name="inst_BF0E7C76" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="448" y="3456" name="inst_35D9C4EE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="416" y="3456" name="inst_DF3457CF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="576" y="3424" name="inst_294DCCFF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="544" y="3456" name="inst_ADA283E5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="576" y="3456" name="inst_AC06A3A0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="384" y="3424" name="inst_80D564A7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="416" y="3424" name="inst_C418E0B4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="480" y="3424" name="inst_378316BE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -723,7 +705,6 @@
     <instance objName="obj_prehis_grass" x="512" y="3424" name="inst_1BAAE9A0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="608" y="3424" name="inst_7E104ABD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="640" y="3424" name="inst_8DD46A22" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="640" y="3456" name="inst_D0C47509" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="608" y="3200" name="inst_11AB0BAC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="640" y="3200" name="inst_8D139930" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="544" y="3168" name="inst_846ACC7C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -758,24 +739,6 @@
     <instance objName="obj_prehis_grass" x="288" y="3200" name="inst_99AFD02B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="512" y="3168" name="inst_31F55283" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="640" y="3168" name="inst_B4C5B92B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="672" y="3424" name="inst_4C096E66" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="672" y="3456" name="inst_5714A485" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="704" y="3424" name="inst_9E4B8D10" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="704" y="3456" name="inst_BF17628E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="736" y="3456" name="inst_A54A4F67" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="736" y="3424" name="inst_FE208A72" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="768" y="3424" name="inst_11FAC26D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="736" y="3456" name="inst_D2541372" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="736" y="3456" name="inst_7833A1A8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="800" y="3456" name="inst_7E9DCBC8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="768" y="3456" name="inst_8D32A8A5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="832" y="3424" name="inst_DCECDEFC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="832" y="3424" name="inst_AC15AD45" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="832" y="3456" name="inst_64246FD3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="768" y="3424" name="inst_1ED4C2D9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="800" y="3424" name="inst_557A4E9E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="864" y="3424" name="inst_EB226DA8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="864" y="3456" name="inst_B29497BA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="896" y="3424" name="inst_59615B0F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="896" y="3424" name="inst_FFA62386" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="896" y="3456" name="inst_AB25FFEE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -799,21 +762,7 @@
     <instance objName="obj_prehis_grass" x="1120" y="3424" name="inst_5D4649C3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="1120" y="3424" name="inst_84BDF9A4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="1120" y="3456" name="inst_D3294DF7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="1088" y="3360" name="inst_715389A4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="1120" y="3360" name="inst_17E22980" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="1088" y="3392" name="inst_BBE312A2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="1120" y="3392" name="inst_8F123D36" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="1056" y="3360" name="inst_16F4BDC3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="1056" y="3392" name="inst_80F7F628" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="1056" y="3328" name="inst_0C30CB20" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="1088" y="3328" name="inst_1D77EA94" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="1088" y="3296" name="inst_BF838797" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="1120" y="3296" name="inst_33885D07" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="1120" y="3328" name="inst_E44EB256" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="1056" y="3296" name="inst_5DF8CDC3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="1056" y="3232" name="inst_86421461" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="1088" y="3264" name="inst_D63C53AA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="1120" y="3264" name="inst_775724AE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="1088" y="3200" name="inst_A2AA06D3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="1088" y="3232" name="inst_13D514D4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="1088" y="3232" name="inst_ECF1631C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -827,7 +776,6 @@
     <instance objName="obj_prehis_grass" x="1088" y="3232" name="inst_A54E098E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="1120" y="3200" name="inst_3DFAE4AA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="1120" y="3232" name="inst_B78A2F0E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="1056" y="3264" name="inst_F31C72E3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="384" y="3232" name="inst_74C7E37E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="320" y="3232" name="inst_12F2EA4B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="192" y="3232" name="inst_8E1BDBD6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -850,7 +798,6 @@
     <instance objName="obj_prehis_grass" x="672" y="3168" name="inst_C3EDCFFB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="672" y="3200" name="inst_A0B6DCD7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="672" y="3232" name="inst_8E5A5E9D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="832" y="3168" name="inst_DCE17648" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="704" y="3168" name="inst_B7C4370A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="704" y="3200" name="inst_B79B6FFD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="704" y="3200" name="inst_68B76A84" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -859,8 +806,6 @@
     <instance objName="obj_prehis_grass" x="736" y="3232" name="inst_78BA57F5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="768" y="3232" name="inst_DB2464B9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="800" y="3232" name="inst_00540001" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="832" y="3232" name="inst_101B2E1D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="832" y="3200" name="inst_67EFD4D1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="768" y="3168" name="inst_23A48AEB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="768" y="3200" name="inst_4C185169" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="800" y="3200" name="inst_99337D25" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -1072,8 +1017,7 @@
     <instance objName="obj_prehis_grass" x="1120" y="3104" name="inst_D80FD025" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="1120" y="3136" name="inst_D9FE0C35" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="1120" y="3104" name="inst_4F14616C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_trex" x="192" y="3776" name="inst_DF00DED6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_raptor" x="672" y="4032" name="inst_6CED95BD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_raptor" x="544" y="4032" name="inst_6CED95BD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="1024" y="3744" name="inst_B7198DA3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="1024" y="3712" name="inst_C1D5CF43" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="1472" y="3712" name="inst_E97AD613" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -1598,16 +1542,6 @@
     <instance objName="obj_prehis_grass" x="1056" y="4096" name="inst_F442FD20" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="1024" y="4096" name="inst_152F6848" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="992" y="4096" name="inst_49061620" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="960" y="4096" name="inst_505D5EE7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="928" y="4096" name="inst_F07229D0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="896" y="4096" name="inst_38B61D24" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="864" y="4096" name="inst_B3741324" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="832" y="4096" name="inst_C6254B25" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="832" y="4128" name="inst_8EA0884B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="864" y="4128" name="inst_EBADAFD3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="896" y="4128" name="inst_E756AF65" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="928" y="4128" name="inst_F7CF68B1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="960" y="4128" name="inst_B52CBAA3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="1280" y="4128" name="inst_389210DD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="1312" y="4128" name="inst_27B9C318" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="1344" y="4128" name="inst_26370D10" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -1624,40 +1558,11 @@
     <instance objName="obj_prehis_grass" x="1280" y="4128" name="inst_227CE231" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="1248" y="4128" name="inst_A1FF5D9C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="1216" y="4128" name="inst_1213F413" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="1152" y="4128" name="inst_157EF9A4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="1120" y="4128" name="inst_9CCF5672" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="1088" y="4128" name="inst_BBB4DF89" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="1056" y="4128" name="inst_0FD6E196" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="1024" y="4128" name="inst_CAE73001" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="992" y="4128" name="inst_AE9D4A1E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="960" y="4128" name="inst_3B1729F8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="992" y="4128" name="inst_CAD92775" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="1024" y="4128" name="inst_0D9E4BD3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="1056" y="4128" name="inst_EE2CA403" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="1088" y="4128" name="inst_13E6AFD3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="1120" y="4128" name="inst_A929CB90" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="1152" y="4128" name="inst_F34D914B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="1184" y="4128" name="inst_E79AD9CD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="1216" y="4128" name="inst_46D171DA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="1248" y="4128" name="inst_2096D8CD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="1216" y="4128" name="inst_C662A808" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="1184" y="4128" name="inst_265C17C4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="1152" y="4128" name="inst_CC0FB0BB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="1120" y="4128" name="inst_6B61ECC7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="1088" y="4128" name="inst_C784D862" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="1024" y="4128" name="inst_E164F3CC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="992" y="4128" name="inst_97F188E5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="928" y="4128" name="inst_4FCEAD67" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="896" y="4128" name="inst_0F11BFD3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="832" y="4128" name="inst_16C3D11A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="800" y="4128" name="inst_A33D8F12" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="768" y="4128" name="inst_B9F710AD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="704" y="4128" name="inst_F5688795" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="672" y="4128" name="inst_1DEFE7DF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="640" y="4128" name="inst_939337F1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="608" y="4128" name="inst_D2C9203A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="576" y="4128" name="inst_A8B48275" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="544" y="4128" name="inst_AF73DAA3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="512" y="4128" name="inst_72DD416F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="480" y="4128" name="inst_CE232730" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="480" y="4096" name="inst_71B0BBE3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -1675,29 +1580,12 @@
     <instance objName="obj_prehis_grass" x="384" y="4096" name="inst_30506DD8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="416" y="4096" name="inst_59F8FF82" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="416" y="4064" name="inst_3AA263C0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="448" y="4064" name="inst_3A12BC83" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="480" y="4096" name="inst_E51F16EB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="448" y="4096" name="inst_C63A46BE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="480" y="4096" name="inst_E29F5C8A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="512" y="4096" name="inst_D1946A15" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="544" y="4096" name="inst_6BA4CB43" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="576" y="4096" name="inst_55DA398F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="608" y="4096" name="inst_8EA59C31" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="640" y="4096" name="inst_56EAB81B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="672" y="4096" name="inst_0898A1B2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="704" y="4096" name="inst_281E4CE8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="736" y="4096" name="inst_243BD04F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="768" y="4096" name="inst_7E5A25FE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="800" y="4096" name="inst_4CC55032" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="768" y="4096" name="inst_5DDAEDBD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="736" y="4096" name="inst_BA1C269F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="704" y="4096" name="inst_15E62EBA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="704" y="4128" name="inst_D9F21D9E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="672" y="4128" name="inst_7F17DA78" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="704" y="4128" name="inst_D5141D4D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="736" y="4128" name="inst_E8F64EC0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="768" y="4128" name="inst_99158E41" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_prehis_grass" x="800" y="4128" name="inst_DE8883D6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="1408" y="3744" name="inst_00BB2F2C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="1408" y="3712" name="inst_E72B8D3F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_prehis_grass" x="1504" y="3648" name="inst_B5DBF665" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -1755,7 +1643,171 @@
     <instance objName="obj_lava_stationary" x="1760" y="4128" name="inst_DF1C0B1B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_lava_stationary" x="1792" y="4128" name="inst_3C5AF5B7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_lava_stationary" x="1792" y="4160" name="inst_CC5273E5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_trap_dart_launcher" x="768" y="3808" name="inst_23F6B670" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="1504" y="3424" name="inst_B9859E07" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="1536" y="3424" name="inst_71B7EDA0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="384" y="3488" name="inst_AAF79395" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="416" y="3488" name="inst_F1529808" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="448" y="3488" name="inst_5AB024FD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="480" y="3488" name="inst_4247108E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="512" y="3488" name="inst_7390BA27" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="544" y="3488" name="inst_A95D890E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="576" y="3488" name="inst_9A3BF502" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="608" y="3488" name="inst_4137C90D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="640" y="3488" name="inst_778A703B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="832" y="4288" name="inst_4151EED1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="800" y="4288" name="inst_266B0F0D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="864" y="4288" name="inst_A2DA32F9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="512" y="4160" name="inst_513B989A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="512" y="4192" name="inst_033BF7D1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="512" y="4224" name="inst_63CAEE98" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="640" y="4160" name="inst_E0EF3027" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="608" y="4160" name="inst_8DA6EF59" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="576" y="4160" name="inst_E3906E3F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="544" y="4160" name="inst_6A7D75A5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="544" y="4224" name="inst_1A9A69CD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="576" y="4224" name="inst_15FF7F23" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="608" y="4224" name="inst_FB7CEEB0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="640" y="4224" name="inst_4D9CB61E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="768" y="4288" name="inst_4BFF4D2D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="736" y="4288" name="inst_EA7DEAC5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="704" y="4288" name="inst_7F69E979" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="896" y="4288" name="inst_1D954A72" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="928" y="4288" name="inst_16BC55B4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="960" y="4288" name="inst_2EE3A84E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="1088" y="4128" name="inst_E91F5561" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="1088" y="4160" name="inst_53315C7D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="1088" y="4192" name="inst_128FC6AA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="1088" y="4256" name="inst_526A704C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="1088" y="4224" name="inst_A7503F48" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="1088" y="4288" name="inst_09CD1995" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="1056" y="4288" name="inst_EB3232CE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="1024" y="4288" name="inst_FFA95A60" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="992" y="4288" name="inst_E89F0C69" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="960" y="4288" name="inst_77325F5B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="928" y="4288" name="inst_220C1AC4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="896" y="4288" name="inst_34B2BBE9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="864" y="4288" name="inst_C9D5CC9B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="832" y="4288" name="inst_0CA61F3D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="800" y="4288" name="inst_F608DA33" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="768" y="4288" name="inst_92D7E7CF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="736" y="4288" name="inst_562D68B6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="704" y="4288" name="inst_2070B506" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="672" y="4288" name="inst_2C597D88" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="1056" y="4160" name="inst_C3A245DF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="512" y="4256" name="inst_68081BF5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="512" y="4288" name="inst_78EE8793" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="544" y="4288" name="inst_EF3D8A2A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="544" y="4256" name="inst_B2F96141" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="576" y="4256" name="inst_5C469FD7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="544" y="4256" name="inst_F9EDC297" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="544" y="4288" name="inst_3F04E60B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="576" y="4288" name="inst_F8F6BD2A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="576" y="4256" name="inst_93B109EB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="576" y="4288" name="inst_9CE507B8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="608" y="4288" name="inst_F8B37B0D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="640" y="4288" name="inst_427F4A36" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="640" y="4256" name="inst_B1ABB637" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="640" y="4288" name="inst_4B9A320B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="640" y="4256" name="inst_AA79B20D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="608" y="4256" name="inst_590E822B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="640" y="4256" name="inst_2D4869E0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="992" y="4224" name="inst_1C66DA0B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="960" y="4224" name="inst_442B278B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="960" y="4256" name="inst_77D2CB44" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="992" y="4256" name="inst_F0069898" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="1024" y="4256" name="inst_C7D3D91A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="1056" y="4256" name="inst_EC8886EF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="1056" y="4224" name="inst_42BB5EF3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="1024" y="4224" name="inst_F2B76DF9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="1024" y="4160" name="inst_3CBEFF95" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="992" y="4160" name="inst_F1585443" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="960" y="4160" name="inst_68E3BBD4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="480" y="4160" name="inst_8049B84A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="480" y="4192" name="inst_E6496E16" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="480" y="4224" name="inst_8FBE3F61" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="480" y="4256" name="inst_B15AB1A3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="480" y="4288" name="inst_7268822A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="928" y="4160" name="inst_F44AE3BD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="928" y="4224" name="inst_FE824C84" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="928" y="4256" name="inst_CD95A076" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="1056" y="4192" name="inst_49C10882" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="1056" y="4128" name="inst_5FB69574" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_trap_spikes" x="672" y="4224" name="inst_A7720ADB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_trap_spikes" x="800" y="4224" name="inst_394CCBD3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_trap_spikes" x="736" y="4224" name="inst_BC91E1BD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_trap_spikes" x="864" y="4224" name="inst_EAFD9FD9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="576" y="4192" name="inst_D74CCA45" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="544" y="4192" name="inst_33D54CCC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="576" y="4192" name="inst_58B33F4F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="608" y="4192" name="inst_2A6C79E8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="640" y="4192" name="inst_C098CE52" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="928" y="4192" name="inst_797DAAD2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="960" y="4192" name="inst_B8341F95" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="992" y="4192" name="inst_BF86D0A0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="1024" y="4192" name="inst_2238ECF9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="608" y="4096" name="inst_A45D0A90" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="640" y="4096" name="inst_43B3C7B5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="928" y="4096" name="inst_8EAFD7E7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="960" y="4096" name="inst_3F9C029F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="544" y="4128" name="inst_5A445539" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="576" y="4128" name="inst_B742DB23" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="608" y="4128" name="inst_ECFFD844" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="640" y="4128" name="inst_6224AA3E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="928" y="4128" name="inst_2B01F2B4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="960" y="4128" name="inst_6FA44CBC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="1024" y="4128" name="inst_ED36B5D7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass" x="992" y="4128" name="inst_D98DA2E7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_trap_trapdoor" x="672" y="4096" name="inst_36A7BD80" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass_platform" x="640" y="3936" name="inst_B9C586D7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass_platform" x="672" y="3936" name="inst_BF2E3862" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass_platform" x="704" y="3936" name="inst_7BC0BC5E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass_platform" x="736" y="3936" name="inst_3C03FF9E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass_platform" x="768" y="3936" name="inst_96B7BABD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass_platform" x="800" y="3936" name="inst_E2C71EE0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass_platform" x="832" y="3936" name="inst_2CB4BA86" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass_platform" x="864" y="3936" name="inst_1A971DCE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass_platform" x="896" y="3936" name="inst_63737758" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass_platform" x="640" y="3808" name="inst_952D9864" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass_platform" x="672" y="3808" name="inst_1DA3B9B1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass_platform" x="704" y="3808" name="inst_6241741B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass_platform" x="736" y="3808" name="inst_69A98F17" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass_platform" x="768" y="3808" name="inst_293A8A73" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass_platform" x="800" y="3808" name="inst_14B153F2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass_platform" x="832" y="3808" name="inst_EFFDF9CB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass_platform" x="864" y="3808" name="inst_129CE74B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass_platform" x="640" y="3680" name="inst_2A86C628" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass_platform" x="608" y="3680" name="inst_7F02441E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass_platform" x="640" y="3680" name="inst_36D62AD7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass_platform" x="672" y="3680" name="inst_5BF2AB14" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass_platform" x="704" y="3680" name="inst_5057D1BB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass_platform" x="736" y="3680" name="inst_449E5A3B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass_platform" x="768" y="3680" name="inst_732A72A8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass_platform" x="800" y="3680" name="inst_BF089001" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass_platform" x="832" y="3680" name="inst_BA79F329" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass_platform" x="864" y="3680" name="inst_5D8E5F43" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass_platform" x="640" y="3552" name="inst_37B5F3C2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass_platform" x="608" y="3552" name="inst_DC12FBF0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass_platform" x="640" y="3552" name="inst_05E91658" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass_platform" x="672" y="3552" name="inst_3D3864E2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass_platform" x="704" y="3552" name="inst_6205D6A8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass_platform" x="736" y="3552" name="inst_073C1309" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass_platform" x="768" y="3552" name="inst_629422F2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass_platform" x="800" y="3552" name="inst_CC9CDBDF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass_platform" x="832" y="3552" name="inst_26633D7B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass_platform" x="864" y="3552" name="inst_2DDE3B6E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass_platform" x="672" y="3424" name="inst_BAA97CEC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass_platform" x="704" y="3424" name="inst_D4069BA9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass_platform" x="736" y="3424" name="inst_8432D012" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass_platform" x="768" y="3424" name="inst_58A49699" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass_platform" x="800" y="3424" name="inst_EC2EEA36" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass_platform" x="832" y="3424" name="inst_28FE6F5B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass_platform" x="864" y="3424" name="inst_AB00642F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass_platform" x="864" y="3424" name="inst_FD6A02EB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass_platform" x="864" y="3424" name="inst_A6980B7D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass_platform" x="896" y="3424" name="inst_5EF26E8B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass_platform" x="896" y="3552" name="inst_B9528153" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass_platform" x="896" y="3680" name="inst_A7F2701D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_prehis_grass_platform" x="896" y="3808" name="inst_6B440A31" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="" x="1408" y="736" w="16" h="16" xo="0" yo="0" id="10000001" name="inst_DDC19A50" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>

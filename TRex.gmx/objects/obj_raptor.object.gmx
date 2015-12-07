@@ -44,6 +44,7 @@
 jumpspeed = 15;
 movespeed = 6;
 specialspeed = 20;
+key_down = 0
 </string>
           </argument>
         </arguments>
@@ -73,6 +74,7 @@ key_right = keyboard_check(vk_right) || (gamepad_axis_value(1,gp_axislh)&gt; 0);
 key_left = -(keyboard_check(vk_left) || (gamepad_axis_value(1,gp_axislh)&lt; 0));
 key_jump = keyboard_check_pressed(vk_up) || (gamepad_button_check_pressed(1,gp_face1));
 key_special = keyboard_check_pressed(vk_rcontrol) || (gamepad_button_check_pressed(1,gp_shoulderr));
+key_down = keyboard_check_pressed(vk_down) || (gamepad_button_check_pressed(1,gp_face2));
 </string>
           </argument>
         </arguments>

@@ -9,6 +9,7 @@
     <sprite>sprites\spr_trex</sprite>
     <sprites name="Prehistoric">
       <sprite>sprites\spr_prehis_grass</sprite>
+      <sprite>sprites\spr_prehis_grass_platform</sprite>
       <sprite>sprites\spr_trex_door</sprite>
       <sprite>sprites\spr_trex_door_breakable</sprite>
       <sprite>sprites\spr_trex_door_switch</sprite>
@@ -21,6 +22,12 @@
       <sprite>sprites\spr_lava</sprite>
       <sprite>sprites\spr_lava_spawn</sprite>
       <sprite>sprites\spr_bridge</sprite>
+      <sprite>sprites\spr_trap_trapdoor</sprite>
+      <sprite>sprites\spr_trap_spikes</sprite>
+    </sprites>
+    <sprites name="GUI">
+      <sprite>sprites\spr_raptor_lives</sprite>
+      <sprite>sprites\spr_trex_lives</sprite>
     </sprites>
   </sprites>
   <backgrounds name="background"/>
@@ -37,6 +44,7 @@
       <object>objects\obj_trex_door</object>
       <object>objects\obj_trex_door_switch</object>
       <object>objects\obj_trex_door_breakable</object>
+      <object>objects\obj_prehis_grass_platform</object>
     </objects>
     <object>objects\obj_trex</object>
     <object>objects\obj_raptor</object>
@@ -50,7 +58,10 @@
       <object>objects\obj_lava_fluid</object>
       <object>objects\obj_trap_lava_spawn</object>
       <object>objects\obj_bridge</object>
+      <object>objects\obj_trap_trapdoor</object>
+      <object>objects\obj_trap_spikes</object>
     </objects>
+    <object>objects\obj_platform_parent</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rom_startup</room>
