@@ -17,6 +17,7 @@
     <sprite>sprites\spr_raptor</sprite>
     <sprites name="Traps">
       <sprite>sprites\spr_trap_dart_trigger</sprite>
+      <sprite>sprites\spr_trap_boulder_trigger</sprite>
       <sprite>sprites\spr_trap_dart_launcher</sprite>
       <sprite>sprites\spr_trap_dart_projectile</sprite>
       <sprite>sprites\spr_lava</sprite>
@@ -24,10 +25,14 @@
       <sprite>sprites\spr_bridge</sprite>
       <sprite>sprites\spr_trap_trapdoor</sprite>
       <sprite>sprites\spr_trap_spikes</sprite>
+      <sprite>sprites\spr_trap_boulder</sprite>
     </sprites>
     <sprites name="GUI">
       <sprite>sprites\spr_raptor_lives</sprite>
       <sprite>sprites\spr_trex_lives</sprite>
+    </sprites>
+    <sprites name="Enemies">
+      <sprite>sprites\spr_enemy_compi</sprite>
     </sprites>
   </sprites>
   <backgrounds name="background"/>
@@ -60,8 +65,12 @@
       <object>objects\obj_bridge</object>
       <object>objects\obj_trap_trapdoor</object>
       <object>objects\obj_trap_spikes</object>
+      <object>objects\obj_trap_boulder</object>
+      <object>objects\obj_trap_boulder_trigger</object>
     </objects>
     <object>objects\obj_platform_parent</object>
+    <object>objects\obj_enemy_compi_fall</object>
+    <object>objects\obj_enemy_compi_nofall</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rom_startup</room>

@@ -59,6 +59,22 @@ with obj_trex
         </arguments>
       </action>
     </event>
+    <event eventtype="5" enumb="82">
+      <action>
+        <libid>1</libid>
+        <id>223</id>
+        <kind>0</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>0</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_current_room</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+      </action>
+    </event>
     <event eventtype="7" enumb="4">
       <action>
         <libid>1</libid>
@@ -106,35 +122,35 @@ setup_views()
 //Raptor
 if global.raptor_lives &gt;= 3
     {
-    draw_sprite(spr_raptor_lives,0,0,0);
-    draw_sprite(spr_raptor_lives,0,34,0);
-    draw_sprite(spr_raptor_lives,0,68,0);
+    draw_sprite(spr_raptor_lives,0,16,16);
+    draw_sprite(spr_raptor_lives,0,50,16);
+    draw_sprite(spr_raptor_lives,0,84,16);
     }
 if global.raptor_lives = 2
     {
-    draw_sprite(spr_raptor_lives,0,0,0);
-    draw_sprite(spr_raptor_lives,0,34,0);
+    draw_sprite(spr_raptor_lives,0,16,16);
+    draw_sprite(spr_raptor_lives,0,50,16);
     }
 if global.raptor_lives = 1
     {
-    draw_sprite(spr_raptor_lives,0,0,0);
+    draw_sprite(spr_raptor_lives,0,16,16);
     }
     
 //TRex
 if global.trex_lives &gt;= 3
     {
-    draw_sprite(spr_trex_lives,0,0,1048);
-    draw_sprite(spr_trex_lives,0,34,1048);
-    draw_sprite(spr_trex_lives,0,68,1048);
+    draw_sprite(spr_trex_lives,0,16,1032);
+    draw_sprite(spr_trex_lives,0,50,1032);
+    draw_sprite(spr_trex_lives,0,84,1032);
     }
 if global.trex_lives = 2
     {
-    draw_sprite(spr_trex_lives,0,0,1048);
-    draw_sprite(spr_trex_lives,0,34,1048);
+    draw_sprite(spr_trex_lives,0,16,1032);
+    draw_sprite(spr_trex_lives,0,50,1032);
     }
 if global.trex_lives = 1
     {
-    draw_sprite(spr_trex_lives,0,0,1048);
+    draw_sprite(spr_trex_lives,0,16,1032);
     }
     
 </string>
