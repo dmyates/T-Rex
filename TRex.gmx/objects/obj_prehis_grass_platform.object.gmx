@@ -25,7 +25,8 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>sprite_index = -1;
+            <string>//Set Sprite Index
+sprite_index = -1;
 </string>
           </argument>
         </arguments>
@@ -48,14 +49,19 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>if (instance_exists(obj_player_parent))
+            <string>///Collission Detection
+if (instance_exists(obj_player_parent))
     {
-    if (round(obj_player_parent.y + (obj_player_parent.sprite_height/2)) &gt; y) || (obj_player_parent.key_down) mask_index = -1;
+    if (round(obj_player_parent.y + (obj_player_parent.sprite_height/2)) &gt; y) || (obj_player_parent.key_down)
+        {
+        mask_index = -1;
+        }
     else   
         {
         mask_index = spr_prehis_grass_platform;
         }
     }
+
 </string>
           </argument>
         </arguments>
@@ -78,7 +84,8 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>draw_sprite(spr_prehis_grass_platform,0,x,y);
+            <string>///Draw Self
+draw_sprite(spr_prehis_grass_platform,0,x,y);
 </string>
           </argument>
         </arguments>
